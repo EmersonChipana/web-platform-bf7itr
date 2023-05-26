@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+
+
+body{
+    margin: 0;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(180deg, rgba(235, 255, 0, 0.42) 0%, rgba(255, 181, 182, 0.75) 72.4%);
+}
+
+h1{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 5rem;
+    color: #fff;
+    text-shadow: 0 0 20px #000;
+    text-align: center;
+    line-height: 2;
+    margin: 0;
+}
+
+.textColor{
+    background-color: #A9C9FF;
+    background-image: linear-gradient(90deg, #A9C9FF 0%, #FFBBEC 100%);
+    padding-inline: 10px;
+    color:#FFBBEC
+}
+
