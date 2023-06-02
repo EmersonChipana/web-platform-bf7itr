@@ -16,13 +16,13 @@ body{
 }
 
 h1{
-    font-family: 'Zen Tokyo Zoo', cursive;
-    font-size: 4rem;
-    color: #fff;
-    text-shadow: 0 0 10px #000;
-    text-align: center;
-    line-height: 1;
-    margin: 0;
+  font-family: 'Zen Tokyo Zoo';
+  font-size: 4rem;
+  color: #fff;
+  text-shadow: 0 0 10px #000;
+  text-align: center;
+  line-height: 1;
+  margin: 0;
 }
 
 .page2{
@@ -113,8 +113,11 @@ h2 {
   /*poner margen redondeado*/
   border-radius: 200px;
   margin-top: 20px;
+}
 
-
+a :hover{
+  transform: scale(1.1);
+  transition: 0.5s;
 }
 
 
@@ -149,6 +152,4 @@ h2 span:nth-child(6){ animation-delay:.25s; }
 h2 span:nth-child(7){ animation-delay:.3s; }
 h2 span:nth-child(8){ animation-delay:.35s; }
 h2 span:nth-child(9){ animation-delay:.4s; }
-
-
 
