@@ -16,7 +16,7 @@ body{
 }
 
 h1{
-    font-family: 'Zen Tokyo Zoo';
+    font-family: 'Zen Tokyo Zoo', cursive;
     font-size: 4rem;
     color: #fff;
     text-shadow: 0 0 10px #000;
